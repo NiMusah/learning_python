@@ -1,0 +1,20 @@
+1. Create a tuple, set, dictionaries then loop through the values in the sets, tuple, dictionaries...............
+2. Use input to ask a user for:
+	a) name
+	b) number
+	c) create a list of strings by asking for inputs--------- 
+3. Create a string and 
+	cast it to a float 
+	string to list
+	int to string
+	list to string
+	float to string
+	
+ 	use try and expect
+		try:
+		      ..........
+		except:
+		      print("incopatible")
+			
+		pass
+	

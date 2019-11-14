@@ -1,0 +1,3 @@
+1. Create statements.py -Write a code illustrating  if,elif,else 
+2. Create functions.py-define all the functions available-functions that return value,those that take parameters, and those that dont take parameter.
+3. Create Loop.py --range function,list

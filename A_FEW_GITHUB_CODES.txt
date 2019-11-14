@@ -1,0 +1,18 @@
+$ git remote rm origin
+$ git remote -v
+$ git remote add origin https://github.com/NiMusah/learning_python.git................ learning_python is the name of the repository created on github
+$ git fetch
+
+
+
+
+$ git status
+$ git add [filename].......add tyhe .py extension
+$ git commit -m "type message here-for tracking purposes"
+$ git push origin master.... pushes to github.... this is when the connection to the repository has already been established
+
+
+
+
+
+

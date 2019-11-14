@@ -1,0 +1,27 @@
+1.Define a function that will take in a list as a parameter then print out all the values in the list.
+2.Create an empty list-define a function that takes in 4 parameters,inside the function you append those parameters to the empty list.
+3.a) Define a list that has values.
+3.b) Define 4 functions that will 
+-append a value to the list created in 3.a)
+-insert a value to the list created in 3.a)
+-remove a value to the list created in 3.a)
+-pop a value to the list created in 3.a)
+-clear the list to the list created in 3.a)
+
+*Hint -define a consulants list.
+
+4. Create a new file called 'how to import'
+-import os and math module
+
+
+Pick the functions you need inside the modules
+
+1.import os
+files=os.listdir()
+for file in files:
+print() 
+
+2.import math 
+Math module
+#power
+print(math.power(8,9))

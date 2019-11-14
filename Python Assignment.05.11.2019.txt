@@ -1,0 +1,22 @@
+1. Create statements.py -Write a code illustrating  if,elif,else 
+2. Create functions.py-define all the functions available-functions that return value,those that take parameters, and those that dont take parameter.
+3. Create Loop.py --range function,list
+
+
+------Define a function that takes in 3 required parameters. The function returns a value
+------Define a function that takes in 4 parameters with two required and two optional
+	Specify the required or otherwise and so on and so on
+-----Define a function that has 4 parameters (3 optional, 1 required)
+	Return a value
+Define a function that takes 4 optional parameters 
+	Call them in all the possible ways
+
+
+
+def index(x):
+	return 10*x
+	print(index(1)
+	print(index(2)
+	print(index(3)
+	print(index(4)
+

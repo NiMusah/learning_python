@@ -1,0 +1,29 @@
+Define a function that will take in a list as a parameter and prints out all the values in that list
+Create/define an empty list then define a function that takes in 4 parameters and then append values to the empty list............. [ ]
+Create/define a list that has values
+                     Create a function that appends a value to the created list
+	Create a function that inserts a value to the created list
+	Create a function that removes a value to the created list
+	Create a function that clears the created list
+
+list_created=[.......]
+def fxn_name( list_created): 
+	list_created.append(list_created)
+fxn_name("   ")
+print(list_created)
+
+
+
+
+
+
+Create a new file called how to import 
+	os and math modules then choose a function within said module....use power....use list.dir(0
+	use whatver is called byb the list.dir function within the os module..lopp through the current loop 
+
+file=os.listdir()
+file file in files:
+	print()
+
+
+print(math.pow())......................................................
